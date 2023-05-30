@@ -69,7 +69,7 @@
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
     "lerna": "6.3.0",
-    "prettier": "2.8.1",
+    "prettier": "2.8.8",
     "turbo": "1.6.3"
   },
   "packageManager": "pnpm@7.18.1"
